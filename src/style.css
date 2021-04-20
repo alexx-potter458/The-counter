@@ -2,6 +2,10 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    background-color: #4b4b4b;
+}
+
 #container {
     background-color: #FFFF;
     width: fit-content;
